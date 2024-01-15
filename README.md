@@ -9,8 +9,7 @@ This document provides instructions on how to set up and run the "Codin 1" web a
 
 Clone the repository:
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-directory>
+   git clone https://github.com/nfeng037/coding_assignment11.git
    ```
 
 ## Instructions
