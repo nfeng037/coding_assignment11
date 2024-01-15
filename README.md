@@ -5,6 +5,14 @@ This document provides instructions on how to set up and run the "Codin 1" web a
 
 - Docker installed on your machine.
 
+### Setup
+
+Clone the repository:
+   ```bash
+   git clone <your-repo-link>
+   cd <your-repo-directory>
+   ```
+
 ## Instructions
 
 ### Building the Container
