@@ -5,13 +5,6 @@ This document provides instructions on how to set up and run the "Codin 1" web a
 
 - Docker installed on your machine.
 
-### Setup
-
-Clone the repository:
-   ```bash
-   git clone https://github.com/nfeng037/coding_assignment11.git
-   cd coding_assignment11
-   ```
 ## Instructions
 
 ### Building the Container
