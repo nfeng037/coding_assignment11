@@ -33,7 +33,9 @@ This command runs the container and maps port 3000 from the container to port 77
 
 ### Accessing the Application
 Once the container is running, the React application will be available at 
-```localhost:7775``` 
+```bash
+localhost:7775
+``` 
 on your web browser.
 
 Note: Inside the Docker container, the application runs on port 3000, which is mapped to port 7775 on your local machine.
